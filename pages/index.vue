@@ -20,7 +20,7 @@
         </div>
       </div>
     </div>
-    <Subscribe/>
+    <Subscribe />
   </div>
 </template>
 
@@ -28,7 +28,7 @@
 import { useProducts } from "~/composables/useProducts";
 
 const { products } = useProducts();
-console.log(products[0].title);
+// console.log(products[0].title);
 </script>
 
 <style lang="scss" scoped></style>

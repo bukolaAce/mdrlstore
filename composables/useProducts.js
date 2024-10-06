@@ -1,6 +1,7 @@
 export function useProducts() {
   const products = [
     {
+      id: 1,
       title: "Long Sleeeved Patterned Flannel Shirt",
       image: "/images/tops/LongSleevePatternedFlannelShirt.jpeg",
       priceNow: "$50",
@@ -11,6 +12,7 @@ export function useProducts() {
       size: ["XS", "S", "M", "L", "XL"],
     },
     {
+      id: 2,
       title: "40s & Shorties Text Logo Tee",
       image: "/images/tops/40sShortiesTextLogoTee.jpeg",
       priceNow: "$40",
@@ -21,6 +23,7 @@ export function useProducts() {
       size: ["S", "M", "L", "XL"],
     },
     {
+      id: 3,
       title: "Long Sleeeved Patterned Flannel Shirt",
       image: "/images/tops/LongSleevePatternedFlannelShirt2.jpeg",
       priceNow: "$40",
@@ -31,6 +34,7 @@ export function useProducts() {
       size: ["M", "L", "XL", "XXL"],
     },
     {
+      id: 4,
       title: "Southern Jacquard Flannel Shirt",
       image: "/images/tops/SouthwesternJacquardFlannelShirt.jpeg",
       priceNow: "$40",
@@ -41,6 +45,7 @@ export function useProducts() {
       size: ["S", "M", "L"],
     },
     {
+      id: 5,
       title: "Boardies\u00AE Refresher Swim Short",
       image: "/images/shorts/BoardiesRefresherSwimShort.jpeg",
       priceNow: "$40",
@@ -51,6 +56,7 @@ export function useProducts() {
       size: ["S", "M", "L", "XL"],
     },
     {
+      id: 6,
       title: "Lucien Stripe Knit Volley Short",
       image: "/images/shorts/LucienStripeKnitVolleyShort.jpeg",
       priceNow: "$40",
@@ -61,6 +67,7 @@ export function useProducts() {
       size: ["L", "XL", "XXL"],
     },
     {
+      id: 7,
       title: "Andy Warhol Patterned Boxer Brief",
       image:
         "/images/accesories/CalvinKleinXAndyWarholPatternedBoxerBrief.jpeg",
@@ -72,6 +79,7 @@ export function useProducts() {
       size: ["S", "M", "L", "XL", "XXL"],
     },
     {
+      id: 8,
       title: "Vibes Sports Stock",
       image: "/images/accesories/VibesSportsStock.jpeg",
       priceNow: "$40",
