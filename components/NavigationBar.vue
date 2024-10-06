@@ -6,9 +6,9 @@
     </NuxtLink>
     <nav role="navigation" class="nav-menu w-nav-menu">
       <NuxtLink to="/" aria-current="page" class="nav-link w-nav-link">Home</NuxtLink>
-      <NuxtLink to="/category/tops" class="nav-link w-nav-link">Tops</NuxtLink>
-      <NuxtLink to="/category/bottoms" class="nav-link w-nav-link">Bottoms</NuxtLink>
-      <NuxtLink to="/category/socks-underwear" class="nav-link w-nav-link">Accessories</NuxtLink>
+      <NuxtLink to="/Categories/Tops" class="nav-link w-nav-link">Tops</NuxtLink>
+      <NuxtLink to="/Categories/Shorts" class="nav-link w-nav-link">Shorts</NuxtLink>
+      <NuxtLink to="/Categories/Accessories" class="nav-link w-nav-link">Accessories</NuxtLink>
       <a href="#" class="nav-link w-nav-link">Contact</a>
     </nav>
     <div data-node-type="commerce-cart-wrapper" data-open-product="" data-wf-cart-type="rightSidebar" data-wf-cart-query="" data-wf-page-link-href-prefix="" class="w-commerce-commercecartwrapper cart-2">
